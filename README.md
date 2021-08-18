@@ -4,6 +4,7 @@ This is a playground repository for the [YouTube tutorial series](https://www.yo
 
 Wikipedia link on: [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)
 
+---
 
 ### Part 1: Const, Let, Var
 
@@ -20,6 +21,6 @@ npm run const-let-var
 ```
 
 Mozilla Developer Network links:
-- [Const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
-- [Let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
-- [Var](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
+- [const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
+- [let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+- [var](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
