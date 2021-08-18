@@ -6,14 +6,23 @@ Wikipedia link on: [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)
 
 ---
 
-### Part 1: Const, Let, Var
-
-Variable declaration and constant declaration before and after the intorduction of ES6.
+### Setup
 
 #### How to install
 ```
 npm i
 ```
+
+#### How to run
+```
+npm run <script-name>
+```
+
+---
+
+### Part 1: Const, Let, Var
+
+Variable declaration and constant declaration before and after the intorduction of ES6.
 
 #### How to run
 ```
