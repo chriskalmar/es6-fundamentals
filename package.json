@@ -5,7 +5,8 @@
   "main": "src/",
   "scripts": {
     "dev": "node --experimental-specifier-resolution=node ./node_modules/.bin/nodemon -q -w src",
-    "const-let-var": "SCRIPT=const-let-var npm run dev"
+    "const-let-var": "SCRIPT=const-let-var npm run dev",
+    "arrow-functions": "SCRIPT=arrow-functions npm run dev"
   },
   "type": "module",
   "author": "Chris Kalmar <christian.kalmar@gmail.com>",
