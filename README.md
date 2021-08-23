@@ -33,3 +33,19 @@ Mozilla Developer Network links:
 - [const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
 - [let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
 - [var](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
+
+
+---
+
+### Part 2: Arrow Functions
+
+Using the new arrow function syntax that was introduced with ES6.
+
+#### How to run
+```
+npm run arrow-functions
+```
+
+Mozilla Developer Network links:
+- [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+- [Modulo Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder)
